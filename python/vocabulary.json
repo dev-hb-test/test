@@ -1,0 +1,20 @@
+{
+    "message.welcome" : [
+        "Hello and welcome back",
+        "Are you here just to bother me",
+        "Hey hey hey, look who is calling me",
+        "Seems like you have nothing else to do",
+        "Hello how are you doing?",
+        "How can i help you",
+        "would you like me to do something for you ?"
+    ],
+    "message.menu" : "Everything you want will be at your table",
+    "message.wrong_name" : "just call me hafid next time okay",
+    "message.baliz" : ["La", "La", "K"],
+    "message.thanks" : [
+        "Not a problem {}",
+        "I am always here to help you {}",
+        "{} c'mon, this is the least I can do",
+        "Anytime and anywhere ... well, just here I guess"
+    ]
+}

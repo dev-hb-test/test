@@ -1,0 +1,27 @@
+[
+    {
+        "action" : "movie_recommendation",
+        "keywords" : "recomend movie",
+        "max_matches" : 2
+    },
+    {
+        "action" : "time_now",
+        "keywords" : "what time is it now",
+        "max_matches" : 4
+    },
+    {
+        "action" : "random_picture",
+        "keywords" : "give random picture photo",
+        "max_matches" : 3
+    },
+    {
+        "action" : "devcrawlers_blog",
+        "keywords" : "give devcrawlers blog article",
+        "max_matches" : 3
+    },
+    {
+        "action" : "armane_net",
+        "keywords" : "armane website team",
+        "max_matches" : 2
+    }
+]
