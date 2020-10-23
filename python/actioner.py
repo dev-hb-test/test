@@ -16,8 +16,7 @@ class Actionner:
             "movie_recommendation" : self.movieRecommandation,
             "time_now" : self.timeNow,
             "random_picture" : self.randomPicture,
-            "devcrawlers_blog" : self.devcrawlersBlog,
-            "armane_net" : self.armaneNet
+            "devcrawlers_blog" : self.devcrawlersBlog
         }
 
     # check if an action must be executed
@@ -86,6 +85,3 @@ class Actionner:
         url = "https://devcrawlers.com/en/"
         return "I found you this : " +random_article.find('h2').text+ ", read more... "+url+random_article['href']
 
-    # get armane website info
-    def armaneNet(self):
-        return "This is armane website https://devcrawlers.com/img/blog/articles/armane_team.png http://armane.net"
